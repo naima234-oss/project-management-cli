@@ -13,14 +13,12 @@ A Python 3.10+ command-line application for managing users, projects, and tasks.
 - Save data automatically to a JSON file.
 - Automated unit tests using Python's `unittest`.
 
-## Setup (Linux/macOS)
+set-up
 
 ```bash
 python3 --version
 python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+
 ```
 
 The core application uses only Python's standard library. `rich` is included as an optional dependency for future terminal formatting enhancements.
