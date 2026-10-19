@@ -79,7 +79,6 @@ git remote add origin https://github.com/YOUR-USERNAME/project-management-cli.gi
 git push -u origin main
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username. Do not publish passwords, tokens, or private information.
 
 ## Limitations / future improvements
 
